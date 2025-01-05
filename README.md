@@ -15,15 +15,18 @@ A simple tool for automating navigation tasks by defining and managing sequences
    ```bash
    git clone https://github.com/amabilee/navigation-automation-tool.git
    cd navigation-automation-tool
+   ```
 Install the required dependencies:
-    ```bash
-    pip install PyQt5
+   ```bash
+   pip install PyQt5
+   ```
 
 ## Usage
 
 1. Run the application:
    ```bash
    python navigation_automation.py
+   ```
 2. Use the interface to:
    - Add automations by clicking "Add Automation."
    - Edit automations by selecting them from the list.
