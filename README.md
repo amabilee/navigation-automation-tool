@@ -28,6 +28,11 @@ Install the required dependencies:
    - Add automations by clicking "Add Automation."
    - Edit automations by selecting them from the list.
    - Save and manage your automations effortlessly!
+  
+## Release History
+
+- 0.1
+  - Initial release of the Navigation Automation Tool with basic functions.
 
 ## License
 
